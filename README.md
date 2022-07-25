@@ -1,1 +1,2 @@
-# val-auth-app
+# simple validation and authentication node app
+
